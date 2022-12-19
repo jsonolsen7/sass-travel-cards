@@ -1,4 +1,4 @@
-# sass-travel-cards
+# SASS Travel Cards
 
 ## Description
 
